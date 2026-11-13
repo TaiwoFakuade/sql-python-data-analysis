@@ -1,0 +1,9 @@
+task_id,annotator,category,correct
+1,Aisha,text,1
+2,Aisha,text,1
+3,Chidi,audio,0
+4,Chidi,text,1
+5,Aisha,image,1
+6,Emeka,audio,1
+7,Emeka,text,0
+8,Aisha,audio,1
